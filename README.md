@@ -6,4 +6,4 @@
 
 Worked in Vietnam for about 3 years as a manager. (have work experiences in manufacturing industry : bags, clothes)
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=curian48)](https://solved.ac/curian48/)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=curian48)
