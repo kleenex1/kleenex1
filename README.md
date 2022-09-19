@@ -6,3 +6,7 @@
 
 Worked in Vietnam for about 3 years as a manager. (have work experiences in manufacturing industry : bags, clothes)
 
+
+<a href="https://solved.ac/curian48">
+  <img src="https://img.shileds.io/badge/-yellow-yellow>
+</a>
